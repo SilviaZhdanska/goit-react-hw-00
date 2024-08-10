@@ -1,0 +1,24 @@
+.table {
+  margin: 50px;
+  width: 700px;
+  border: 2px solid black;
+}
+
+.tableThead {
+  background-color: rgb(61, 110, 225);
+  color: white;
+}
+
+.tableItem {
+  text-align: left;
+  font-size: 20px;
+}
+
+.tableItem td {
+  border: 2px solid black;
+  padding-left: 10px;
+}
+
+.tableItem:nth-child(even) {
+  background-color: rgb(182, 182, 228);
+}

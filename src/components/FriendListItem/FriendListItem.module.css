@@ -1,0 +1,12 @@
+.friendsImage {
+  width: 75px;
+  margin-top: 20px;
+}
+
+.statusOnline {
+  color: green;
+}
+
+.statusOffline {
+  color: red;
+}
